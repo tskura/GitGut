@@ -12,6 +12,7 @@ namespace GitGut
         {
             var c1 = new Class1();
             var c2 = new Class2();;
+            var c3 = new Blend();
         }
     }
 }
