@@ -10,7 +10,13 @@ namespace GitGut
     {
         private void DoExecute()
         {
-            var c = 20;
+            var c = 10;
+            var g = ++c;
+        }
+
+        private void DoExecuteDifferent()
+        {
+            var d = 0;
         }
     }
 }
