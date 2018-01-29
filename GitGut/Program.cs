@@ -10,6 +10,7 @@ namespace GitGut
     {
         static void Main(string[] args)
         {
+            var c1 = new Class1();
         }
     }
 }
